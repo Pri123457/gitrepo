@@ -54,3 +54,29 @@ git branch
 git push origin main
 esit
 exit
+ll
+echo "Git Major Issues – Real-Time Scenarios & Resolution
+
+Case 1: Push Rejected Due to Out-of-Date Local Repository
+🔁 Scenario:
+Developer Harry made changes, committed them, and pushed to the remote master branch.
+
+
+" > manoj.txt
+ll
+git status .
+git status -s
+git stauts
+git status 
+git add .
+git rm --cached gitrepo
+git ll
+ll
+git add manoj.txt 
+ll
+git status -s
+git commit -m "new commit"
+git stauts ll
+git status -s
+git push origin master
+exit
