@@ -80,3 +80,22 @@ git stauts ll
 git status -s
 git push origin master
 exit
+git pull origin master
+echo "Moves the branch pointer to the specific commit." > index.html
+git status -s
+git stauts
+git status
+git add index.html 
+git status
+git staatus
+git status
+git stash index.html
+git stash list
+git status
+git add .
+git commit -m "new commit"
+git push origin master
+git push origin master\
+git push origin master
+git pull origin master
+exit
